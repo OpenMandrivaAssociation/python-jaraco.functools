@@ -1,6 +1,6 @@
 Name:		python-jaraco.functools
-Version:	4.1.0
-Release:	2
+Version:	4.6.0
+Release:	1
 Source0:	https://files.pythonhosted.org/packages/source/j/jaraco.functools/jaraco_functools-%{version}.tar.gz
 Summary:	Functools like those found in stdlib
 URL:		https://pypi.org/project/jaraco.functools/
